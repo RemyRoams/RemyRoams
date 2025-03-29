@@ -1,5 +1,6 @@
 # Hello, I'm Remy
 <a href="https://www.linkedin.com/in/julianmramos/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.datacamp.com/portfolio/julianremyramos"><img src="https://img.shields.io/badge/-DataCamp-03A96F?&style=for-the-badge&logo=datacamp&logoColor=black" /></a>
 
 I am a recent mechanical engineering graduate with a profound interest in power plant control system automation through mechatronics and a dedication to solving complex data problems.
 
