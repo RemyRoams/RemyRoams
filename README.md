@@ -12,11 +12,10 @@ My journey in engineering has led me to develop a passion for data analytics, an
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Stationery Pricing Web Scraping                | <a href="https://google.com">National Bookstore Web Scraper</a>|
+| Stationery Pricing Web Scraping                | <a href="https://github.com/RemyRoams/NBS-WebScraping">National Bookstore Web Scraper</a>|
 | Mechanical Engineering Terms Quiz Generator    | <a href="https://google.com">ME Terms </a>|
-| GMail to GSheets Job Application Tracking      | Job Application Tracker|
-| Learning Python Pandas Through Data Cleaning    | Data Cleaning Exercise|
-| Philippine Energy Analysis                      | Philippine Energy|
+| Learning Python Pandas Through Data Cleaning   | Data Cleaning Exercise|
+| Philippine Energy Analysis                     | Philippine Energy|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
