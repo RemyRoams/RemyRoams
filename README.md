@@ -16,11 +16,12 @@ I am now eager to explore this field, merging my interest in data with engineeri
 | Web Scraping | <a href="https://github.com/RemyRoams/NBS-WebScraping">National Bookstore Web Scraper</a>|
 | File Download Automation | <a href="https://github.com/RemyRoams/AudioBook-Downloader">AudioBook Downloader</a>|
 | String Manipulation using Python RegEx | Mechanical Engineering Terms Quiz Generator|
-| Data Cleaning Through Python Pandas | Data Cleaning Exercise|
+| Data Cleaning Using Python Pandas Through Jupyter Notebook | <a href="https://github.com/RemyRoams/Data-Cleaning-with-Python">Data Cleaning Exercise</a>|
 | Data Cleaning and Visualization w/ Python Pandas & Seaborn | Philippine Energy Analysis|
 
 ## Tools
 Python  
+Jupyter Notebook  
 Excel
 
 ## Certifications
