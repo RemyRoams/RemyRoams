@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/julianmramos/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.datacamp.com/portfolio/julianremyramos"><img src="https://img.shields.io/badge/-DataCamp-03A96F?&style=for-the-badge&logo=datacamp&logoColor=black" /></a>
 
-I am a recent mechanical engineering graduate with an interest in automation and handling data.
+I am a mechanical engineering graduate with an interest in automation and handling data.
 
 ## Objective
 
@@ -17,12 +17,13 @@ I am now eager to explore this field, merging my interest in data with engineeri
 | File Download Automation | <a href="https://github.com/RemyRoams/AudioBook-Downloader">AudioBook Downloader</a>|
 | String Manipulation using Python RegEx | Mechanical Engineering Terms Quiz Generator|
 | Data Cleaning Using Python Pandas Through Jupyter Notebook | <a href="https://github.com/RemyRoams/Data-Cleaning-with-Python">Data Cleaning Exercise</a>|
-| Data Cleaning and Visualization w/ Python Pandas & Seaborn | Philippine Energy Analysis|
+| Data Cleaning and Visualization w/ Python Pandas & Seaborn | <a href="https://github.com/RemyRoams/Energy_Mix">Philippine Energy Analysis</a>|
 
 ## Tools
+Excel  
+Tableau  
 Python  
 Jupyter Notebook  
-Excel
 
 ## Certifications
 <div>
